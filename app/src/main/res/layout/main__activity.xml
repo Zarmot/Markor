@@ -40,7 +40,6 @@
         android:id="@+id/main__view_pager_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginBottom="56dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
     <RelativeLayout
@@ -56,10 +55,10 @@
             android:layout_above="@+id/bottom_navigation_bar"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_marginBottom="8dp"
-            android:layout_marginRight="32dp"
-            android:src="@drawable/ic_add_white_24dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
             android:contentDescription="@string/create_new_file_or_folder"
+            android:src="@drawable/ic_add_white_24dp"
             tools:elevation="2dp"
             tools:ignore="RtlHardcoded" />
 
@@ -68,6 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
+            android:layout_marginBottom="-57dp"
             android:background="@color/primary"
             app:itemBackground="@color/primary"
             app:itemIconTint="@drawable/bottomnav_color_selector"

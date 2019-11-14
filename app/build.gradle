@@ -28,7 +28,6 @@ android {
         applicationId "com.zarmot.mriter"
         versionName "1.0.0"
         versionCode 157
-
         minSdkVersion rootProject.ext.version_minSdk
         targetSdkVersion rootProject.ext.version_compileSdk
         buildConfigField "boolean", "IS_TEST_BUILD", "false"

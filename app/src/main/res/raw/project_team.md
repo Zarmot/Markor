@@ -1,5 +1,5 @@
-Gregor Santner (gsantner)
-Austrian software developer and Open Source enthusiast
-https://gsantner.net/?project=markor
+Zarmot
+Casual games player and creator.
+https://zarmot.com
 
 
