@@ -18,7 +18,7 @@ buildscript {
         enable_plugin_kotlin = false
 
         version_compileSdk = 28
-        version_buildTools = "28.0.3"
+        version_buildTools = "29.0.2"
         version_minSdk = 17
 
         // https://developer.android.com/topic/libraries/support-library/

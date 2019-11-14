@@ -180,8 +180,8 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="key_tab">制表符</string>
     <string name="start_on_bottom">从文末开始</string>
     <string name="start_on_bottom_when_loading_document">载入文件时将光标置于文件末尾处</string>
-    <string name="filemanager_doesnot_supply_required_data__appspecific">Markor 只能编辑本地、脱机可用的文档，不支持不提供完整文件路径的文件管理器。</string>
-    <string name="sync_to_local_folder_notice">注意：同步应用可能会将文件放置在自定义文件夹中，相应地更改 Markor 的文档文件夹或在另一个文件管理器中打开它们。</string>
+    <string name="filemanager_doesnot_supply_required_data__appspecific">Mriter 只能编辑本地、脱机可用的文档，不支持不提供完整文件路径的文件管理器。</string>
+    <string name="sync_to_local_folder_notice">注意：同步应用可能会将文件放置在自定义文件夹中，相应地更改 Mriter 的文档文件夹或在另一个文件管理器中打开它们。</string>
     <string name="configure_in_the_apps_settings">在应用设置中设定</string>
     <string name="vertical_alignment">纵向对齐</string>
     <string name="horizontal_alignment">水平对齐</string>
@@ -225,7 +225,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="recently_viewed_documents">最近文档</string>
     <string name="details">细节</string>
     <string name="calendar">日历</string>
-    <string name="warning_disallowed_sd_access">警告！Markor 没有保存此文件的权限, 此处的所有更改都将丢失。Markor 并不能解决这个问题， 请检查 Android 对 Markor 的权限设置。</string>
+    <string name="warning_disallowed_sd_access">警告！Mriter 没有保存此文件的权限, 此处的所有更改都将丢失。Mriter 并不能解决这个问题， 请检查 Android 对 Mriter 的权限设置。</string>
     <string name="error_picture_selection">没有选取照片</string>
     <string name="gallery_picture">从相册选取</string>
     <string name="camera_picture">相机</string>
@@ -278,8 +278,8 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="appdata_private">应用数据(私有)</string>
     <string name="appdata_sdcard">应用数据（SD 卡）</string>
     <string name="internal_storage">内部存储</string>
-    <string name="open_the_document_from_main_view">您可以从底部主视图、文件浏览器或启动器打开文档。还有一个选项可以附加分享到 Markor 的文本。</string>
-    <string name="notebook_is_the_home_of_your_files">笔记本是程序启动时 Markor 在文件浏览器中加载的文件夹。它是你的文件的主文件夹。</string>
+    <string name="open_the_document_from_main_view">您可以从底部主视图、文件浏览器或启动器打开文档。还有一个选项可以附加分享到 Mriter 的文本。</string>
+    <string name="notebook_is_the_home_of_your_files">笔记本是程序启动时 Mriter 在文件浏览器中加载的文件夹。它是你的文件的主文件夹。</string>
     <string name="quicknote_is_the_fastest_option_to_write_down_notes">QuickNote 是写下笔记最快选择。它是一个默认位置为 &gt;Notebook/QuickNote.md&lt; 的 Markdown 格式的文件，您可以在设置中设置一个自定义文件路径。</string>
     <string name="todo_is_the_easiest_way_">使用 ToDo 管理您的任务。它是一个包含默认位置的 todo.txt 格式的文件，&gt;Notebook/todo.txt&lt;，您可以在设置中设置一个自定义文件路径。</string>
     <string name="navigationbar_color">导航栏颜色</string>

@@ -9,7 +9,7 @@ You should have received a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 -->
 <resources>
-    <string name="app_name_real">Markor</string>
+    <string name="app_name_real">Mriter</string>
     <string name="app_name" translatable="false">@string/app_name_real</string>
     <string name="app_license_name" translatable="false">Apache 2.0</string>
     <string name="app_community_url" translatable="false">https://matrix.to/#/#markor:matrix.org</string>
@@ -47,7 +47,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
     <string name="app_theme_light" translatable="false">light</string>
     <string name="app_theme_dark" translatable="false">dark</string>
     <string name="app_theme_auto" translatable="false">auto</string>
-    <string name="editor_basic_color_scheme_markor" translatable="false">Markor</string>
+    <string name="editor_basic_color_scheme_markor" translatable="false">Mriter</string>
     <string name="editor_basic_color_scheme_black_or_white" translatable="false">Black or White</string>
     <string name="editor_basic_color_scheme_amoled" translatable="false">AMOLED</string>
     <string name="editor_basic_color_scheme_solarized" translatable="false">Solarized</string>
